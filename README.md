@@ -5,9 +5,7 @@
 <p align="center">
     This project is part of the Microprocessor in Automation and Robotics Course from the department of Mechatronics of the University of São Paulo (USP).
     Assuming the store can only 9 customers (rules in the covid pandemic), each customer will get a password raging from 1-9, and the password will be displayed
-    when the customer is the first 4 customers in line. When a customer leaves, another enters the display (actaully 4 seven segment displays) by the left, and the rest of the 
-    customers get shifted to the right. The number that enters in the left is the number typed by the manager in the keypad. The main goals of the project were to design the hardware 
-    and software for the implementation of a dynamic 7 segment display with the PIC Microcontroller. The software was built in MPLAB X IDE and was simulated in SimulIDE.
+    when the customer is the first 4 customers in line. When a customer leaves, another enters the display (actually 4 seven segment displays) by the left, and the rest of the customers get shifted to the right. The number that enters in the left is the number typed by the manager in the keypad. The main goals of the project were to design the hardware and software for the implementation of a dynamic 7 segment display with the PIC Microcontroller. The software was built in MPLAB X IDE and was simulated in SimulIDE.
 </p>
 
 ## Requirements
