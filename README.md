@@ -23,4 +23,4 @@ of the project running on SimulIDE. You can also see a summary and code in pdf [
 
 ## Hardware choices
 
-You can see [here](https://github.com/BrunoScaglione/Seven-Segment-Display-PIC-Microcontroller/tree/main/images_datasheet_mosfet) (in Portuguese) the chosen MOSFET transistor, the important properties are highlighted. To see the jusfication of this MOSFET and other harware choiceslook [here](https://github.com/BrunoScaglione/Seven-Segment-Display-PIC-Microcontroller/blob/main/Hardware_choices.pdf) (in Portuguese)
+You can see [here](https://github.com/BrunoScaglione/Seven-Segment-Display-PIC-Microcontroller/tree/main/images_datasheet_mosfet) (in Portuguese) the chosen MOSFET transistor, the important properties are highlighted. To see the jusfication of why this MOSFET and other harware choices: look [here](https://github.com/BrunoScaglione/Seven-Segment-Display-PIC-Microcontroller/blob/main/Hardware_choices.pdf) (in Portuguese)
