@@ -14,7 +14,7 @@
 
 ## Getting Started
 
-Run **project.simu** inside SimulIDE
+Open **project.simu** in SimulIDE and load **SevenSegmentPic.X** into the PIC Microcontroller, then run.
 
 ## Additional Material
 
