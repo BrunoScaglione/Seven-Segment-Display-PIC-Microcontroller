@@ -10,6 +10,8 @@
 
 ## Requirements
 
+- MPLAB X IDE — an expandable, highly configurable software program that incorporates powerful tools to help you discover, configure, develop, debug and qualify embedded designs for most of Microchip’s microcontrollers and digital signal controllers
+
 - SimulIDE —  a simple real time electronic circuit simulator.
 
 ## Getting Started
